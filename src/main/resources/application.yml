@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: number-search-service
+
+  servlet:
+    multipart:
+      max-file-size: 5MB
+
+app:
+  row-cache-size: 50
+  buffer-size: 2048
