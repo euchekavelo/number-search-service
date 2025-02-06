@@ -24,7 +24,7 @@ git clone https://github.com/euchekavelo/number-search-service.git
 ```bash
   ./gradlew build
 ```   
-3. Затем перейти в корневую директорию проекта и запустить docker-контейнер с БД PostgreSQL командой:
+3. Затем перейти в корневую директорию проекта и запустить docker-контейнер командой:
 ```bash
 docker-compose up -d
 ```
